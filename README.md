@@ -1,1 +1,2 @@
-![image](https://github.com/megan1028/Puzzle-Game/raw/master/game_image.png)
+![image](https://github.com/megan1028/Perfect-Match/blob/master/perfect%20match.png)
+https://github.com/megan1028/Perfect-Match/blob/master/perfect%20match.png
